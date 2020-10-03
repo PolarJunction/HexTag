@@ -1,7 +1,0 @@
-[
-{
-  "directory": "D:/DEV/cppProject/build",
-  "command": "C:/MinGW/bin/c++.exe   @CMakeFiles/myProject.dir/includes_CXX.rsp   -std=gnu++11 -o CMakeFiles/myProject.dir/source/main.cpp.obj -c D:/DEV/cppProject/source/main.cpp",
-  "file": "D:/DEV/cppProject/source/main.cpp"
-}
-]
